@@ -1,5 +1,4 @@
-ODataHQ Public Feedback and Support Ticket Repo
-========
+## ODataHQ Public Feedback
 
 Public feedback and support ticket repository
 
