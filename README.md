@@ -2,7 +2,7 @@
 
 Public feedback and support ticket repository
 
-### Feedback for ODataHQ
+### Public Feedback for ODataHQ
 
 Have any feedback for us? [File an issue on this repo](https://github.com/odatahq/Feedback/issues/new) and we will get back to you as soon as we can.
 
