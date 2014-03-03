@@ -1,6 +1,6 @@
-## ODataHQ Public Feedback
+## ODataHQ Public Feedback & Issue Tracking
 
-Public feedback and support ticket repository
+Public feedback and issue tracking forum
 
 ### Public Feedback for ODataHQ
 
